@@ -1,7 +1,7 @@
 ---
 title: "Test Quarto"
 author: "Jacob Organista"
-format: html
+format: gfm
 ---
 
 ## Quarto
